@@ -1,8 +1,9 @@
 {
 	"full_name": "Mikhail Kashkin",
 	"email": "mkashkin@gmail.com",
-    "github_username": "xen",
-    "app_name": "project",
+    	"github_username": "xen",
+    	"app_name": "project",
+	"project_name": "same_as_app_name",
 	"project_short_description": "Flask project template for fast and effective site development.",
 	"version": "0.1.0"
 }
